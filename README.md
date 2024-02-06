@@ -25,3 +25,9 @@
 - 처음 업무 생성 시 manager가 있어야 한다.
 - 중복된 업무가 추가되지 않기 위해 유효성 검사가 이루워져야 한다.
 - 마감일이 지난 업무는 미완료 상태로 변경되어야 한다.
+
+# 배포링크
+- https://scheduflow.web.app/
+
+# Organizations
+- https://github.com/orgs/ScheduFlow/repositories
